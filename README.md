@@ -16,6 +16,6 @@ I am passionate about developing and applying advanced AI techniques to solve co
 
 Feel free to reach out to me via email:
 
-- **Secondary Email:** aifeixingdelv@gmail.com
+- **Email:** aifeixingdelv@gmail.com
 
 Thank you for visiting my GitHub profile! 😊
